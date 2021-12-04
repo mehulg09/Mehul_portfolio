@@ -9,3 +9,6 @@
 
 ### [Numerical Differentiation](https://github.com/mehulg772/Mehul_portfolio/blob/main/Project_Codes/Numerical-Diff.ipynb)
 * We investigate three methods of increasing sophistication to estimate the derivative of a mathematical function. We also look into how to choose the parameters of these methods to get accurate results, testing our algorithm and exploring errors.
+
+### [Numerical Integration](https://github.com/mehulg772/Mehul_portfolio/blob/main/Project_Codes/Numerical-Int.ipynb)
+* We will investigate numerical integration methods. We’ll start with the simple Trapezoid and Simpson’s rules, and move on to the more sophisticated *Gaussian quadrature*.
