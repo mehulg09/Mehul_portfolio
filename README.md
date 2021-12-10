@@ -16,6 +16,7 @@
 
 ### [Numerical Differentiation](https://github.com/mehulg772/Mehul_portfolio/blob/main/Project_Codes/Numerical-Diff.ipynb)
 * Three methods of increasing sophistication to estimate the derivative of a mathematical function. Also looking into how to choose the parameters of these methods to get accurate results, testing algorithm and exploring errors.
+<img src="images/diff.png" width = "400"> <img src="images/diff2.png" width = "400">
 
 ### [Numerical Integration](https://github.com/mehulg772/Mehul_portfolio/blob/main/Project_Codes/Numerical-Int.ipynb)
 * Numerical integration methods, starting with the simple Trapezoid and Simpson’s rules, and moving on to the more sophisticated *Gaussian quadrature*.
