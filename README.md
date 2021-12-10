@@ -4,7 +4,9 @@
 
 ### [Greenhouse Gas Emissions](https://github.com/mehulg772/Mehul_portfolio/blob/main/Project_Codes/DataScienceProject%20(3).ipynb)
 * Mini project investigating UK government's commitment to reducing greenhouse gas emissions (GHG) to net-zero by 2050. 
-* Includes short summary of my findings and analysis together with visualisations. 
+* Includes short summary of my findings and analysis with different plots.
+
+<img src="images/GHG.png" width = "315"><img src="images/GHG2.png" width = "315"><img src="images/GHG3.png" width = "315">
 
 
 ## Scientific Computing
