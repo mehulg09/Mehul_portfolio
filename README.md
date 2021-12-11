@@ -5,7 +5,7 @@
 ### [Stock Prices of Banks](https://github.com/mehulg772/Mehul_portfolio/blob/main/Project_Codes/FinanceProject%20(1).ipynb)
 * Looking over various top bank stock prices, calculating returns, and plotting multiple seaborn graphs. 
 
-<img src="images/finance.png" width = "315"><img src="images/finance2.png" width = "315"><img src="images/finance3.png" width = "315">
+<img src="images/finance.png" width = "315" height = "270"><img src="images/finance2.png" width = "315" height = "270"><img src="images/finance3.png" width = "315" height = "270">
 
 ### [Greenhouse Gas Emissions](https://github.com/mehulg772/Mehul_portfolio/blob/main/Project_Codes/DataScienceProject%20(4).ipynb)
 * Mini project investigating UK government's commitment to reducing greenhouse gas emissions (GHG) to net-zero by 2050. Includes short summary of my findings and analysis with different plots.
@@ -29,5 +29,3 @@
 
 ### [Matrices, Eigenvectors and Eigenvalues](https://github.com/mehulg772/Mehul_portfolio/blob/main/Project_Codes/EigenVecVal.ipynb)
 * Exploring matrices and their eigenvectors and eigenvalues. Application to real-world case (ecology example), and solving one physics problem. 
-
-<img src="images/eig.png" width = "400"><img src="images/eig2.png" width = "400">
