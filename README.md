@@ -2,6 +2,11 @@
 
 ## Projects
 
+### [Stock Prices of Banks](https://github.com/mehulg772/Mehul_portfolio/blob/main/Project_Codes/FinanceProject%20(1).ipynb)
+* Looking over various top bank stock prices, calculating returns, and plotting multiple seaborn graphs. 
+
+<img src="images/finance.png" width = "315"><img src="images/finance2.png" width = "315"><img src="images/finance3.png" width = "315">
+
 ### [Greenhouse Gas Emissions](https://github.com/mehulg772/Mehul_portfolio/blob/main/Project_Codes/DataScienceProject%20(3).ipynb)
 * Mini project investigating UK government's commitment to reducing greenhouse gas emissions (GHG) to net-zero by 2050. 
 * Includes short summary of my findings and analysis with different plots.
