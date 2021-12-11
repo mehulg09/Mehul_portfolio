@@ -22,3 +22,8 @@
 
 ### [Numerical Integration](https://github.com/mehulg772/Mehul_portfolio/blob/main/Project_Codes/Numerical-Int.ipynb)
 * Numerical integration methods, starting with the simple Trapezoid and Simpson’s rules, and moving on to the more sophisticated *Gaussian quadrature*.
+
+### [Matrices, Eigenvectors and Eigenvalues](https://github.com/mehulg772/Mehul_portfolio/blob/main/Project_Codes/EigenVecVal.ipynb)
+* Exploring matrices and their eigenvectors and eigenvalues. Application to real-world case (ecology example), and solving one physics problem. 
+
+<img src="images/eig.png" width = "400"><img src="images/eig2.png" width = "400">
