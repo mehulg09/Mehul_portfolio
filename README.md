@@ -4,7 +4,7 @@
 
 ### [Next day rain prediction in Australia - Machine learning Project](https://github.com/mehulg772/Mehul_portfolio/blob/main/Project_Codes/MachineLearningProject.ipynb)
 * A model that predicts the likelihood of rain tomorrow. All processes of data cleaning, EDA, and applying algorithms are included. 
-<img src="images/MachineLearning1.png" width = "450" height = "350"><img src="images/MachineLearning2.png" width = "450" height = "350">
+<img src="images/MachineLearning1.png" width = "400" height = "350"><img src="images/MachineLearning2.png" width = "400" height = "350">
 
 ### [Stock Prices of Banks](https://github.com/mehulg772/Mehul_portfolio/blob/main/Project_Codes/FinanceProject%20(1).ipynb)
 * Looking over various top bank stock prices, calculating returns, and plotting multiple seaborn graphs. 
